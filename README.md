@@ -16,3 +16,7 @@ python Tool-notebook.py "Big translation project"
 ### Notes
 
 Development was done on IPython notebook `Tool-notebook.ipynb`. `Tool-notebook.py` is mere script export of the notebook.
+
+### Automatic evaluation 
+
+`bleu-evaluation` contains the notebooks and sample data for doing automatic evaluation on Hausa with [NLLB model](https://huggingface.co/docs/transformers/v4.28.1/en/model_doc/nllb). 
